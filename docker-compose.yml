@@ -1,0 +1,7 @@
+version: '3.3'
+services:
+  frontend:
+  image: varintor/234-deploylab-fronted:latest
+  pull_policy: always
+  ports:
+    "8086:80"
