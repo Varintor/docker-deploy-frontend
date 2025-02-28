@@ -4,4 +4,4 @@ services:
   image: varintor/234-deploylab-fronted:latest
   pull_policy: always
   ports:
-    "8086:80"
+    "8088:80"
